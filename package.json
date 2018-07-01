@@ -21,7 +21,7 @@
     "docs:open": "yarn docs && open docs/index.html"
   },
   "dependencies": {
-    "@jibo/command-requester": "^1.0.5",
+    "@jibo/command-requester": "^1.0.6",
     "axios": "github:mividtim/axios#jibo"
   },
   "devDependencies": {
