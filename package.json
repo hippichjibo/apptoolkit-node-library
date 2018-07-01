@@ -10,7 +10,7 @@
     "url": "git@github.com:jibo-robot/apptoolkit-node-library.git"
   },
   "engines": {
-    "node": ">= 8.5.0"
+    "node": ">= 6.5.0"
   },
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
