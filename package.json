@@ -1,7 +1,7 @@
 {
   "name": "@jibo/apptoolkit-library",
   "description": "Jibo App Toolkit for Node.js",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "author": "Jibo, Inc.",
   "copyright": "Copyright (c) 2018 Jibo, Inc. All Rights Reserved",
   "license": "BSD-3-Clause",
